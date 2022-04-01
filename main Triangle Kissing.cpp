@@ -1,7 +1,3 @@
-/* Name: Samiksha Pradhan
-   Course: CS 372
-   Project: Triangles Kissing */
-
 #include <iostream>
 #include <fstream>
 
